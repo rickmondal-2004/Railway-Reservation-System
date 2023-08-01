@@ -3,4 +3,3 @@ The first step is to declare the variables that will be used in the program. The
    Global variables like f, s, addr, ad, flag, f1, d, m, i, amt, and tamt are declared at the beginning of the code. These variables will be used throughout the program.
 
  
-
