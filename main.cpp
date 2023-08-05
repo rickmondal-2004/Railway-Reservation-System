@@ -710,4 +710,3 @@ void manage()
     } while (ch <= 3);
     getch();
 }
-
