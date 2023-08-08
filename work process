@@ -1,7 +1,7 @@
 The first step is to declare the variables that will be used in the program. These variables include:
 
 1. Header files and global variables: The code includes various header files, each providing different functionalities, such as standard input/output, file handling, etc. 
-Global variables like f, s, addr, ad, flag, f1, d, m, i, amt, and tamt are declared at the beginning of the code. These variables will be used throughout the program.
+ Global variables like f, s, addr, ad, flag, f1, d, m, i, amt, and tamt are declared at the beginning of the code. These variables will be used throughout the program.
 2. Class Definitions: The code defines four classes: login, detail, reser, and canc, each login, detail, reser, and canc, each representing different aspects of the railway 
 reservation system.
 3. main() function: The main() function is the entry point of the program. It displays a menu for the user to choose between Admin mode, User mode, or exit the program. The user's choice is processed through a switch statement.
