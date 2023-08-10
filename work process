@@ -8,4 +8,3 @@ The user's choice is processed through a switch statement.
 4. database() function: In this function, the administrator can create, add, and display train details. To access this mode, the user needs to enter the correct administrator password. 
 The password is read from the user using the getpass() function, and if it matches the predefined password, the administrator can perform the required actions.
 
-
