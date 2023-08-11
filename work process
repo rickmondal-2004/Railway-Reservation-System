@@ -8,4 +8,3 @@ The user's choice is processed through a switch statement.
 The password is read from the user using the getpass() function, and if it matches the predefined password, the administrator can perform the required actions.
 
 
-
