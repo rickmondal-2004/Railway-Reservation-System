@@ -7,4 +7,3 @@ Global variables like f, s, addr, ad, flag, f1, d, m, i, amt, and tamt are decla
 The password is read from the user using the getpass() function, and if it matches the predefined password, the administrator can perform the required actions.
 5. reserve() function: This function provides the user with an option to reserve a train ticket. The user can reserve tickets for multiple passengers, and the system calculates the fare based on the selected class and concession category.
 
-
