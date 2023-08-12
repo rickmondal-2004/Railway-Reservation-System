@@ -5,4 +5,5 @@ Global variables like f, s, addr, ad, flag, f1, d, m, i, amt, and tamt are decla
 3. main() function: The main() function is the entry point of the program. It displays a menu for the user to choose between Admin mode, User mode, or exit the program. The user's choice is processed through a switch statement.
 4. database() function: In this function, the administrator can create, add, and display train details. To access this mode, the user needs to enter the correct administrator password. 
 The password is read from the user using the getpass() function, and if it matches the predefined password, the administrator can perform the required actions.
-5. reserve() function: This function provides the user with an option to reserve a train ticket. 
+5. reserve() function: This function provides the user with an option to reserve a train ticket. The user can reserve tickets for multiple passengers, and the system calculates the fare based on the selected class and concession category.
+
