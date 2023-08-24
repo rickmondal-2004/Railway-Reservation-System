@@ -7,5 +7,4 @@ Global variables like f, s, addr, ad, flag, f1, d, m, i, amt, and tamt are decla
 The password is read from the user using the getpass() function, and if it matches the predefined password, the administrator can perform the required actions.
 5. reserve() function: This function provides the user with an option to reserve a train ticket. The user can reserve tickets for multiple passengers, and the system calculates the fare based on the selected class and concession category.
 6. res() function: This function is responsible for the actual reservation process. It reads the necessary details from the user, checks for available seats, calculates the fare, and generates a unique PNR (Passenger Name Record) for the reservation.
-7. displaypassdetail() function: This function displays all the passenger details that have been reserved so far. It reads the data from the "p.txt" file and displays the details on the console.
-8. enquiry() function: The enquiry() function displays all the available train details stored in the "t.txt" file.
+7. displaypassdetail() function: This function displays all the passenger details that have been reserved so far. It reads the data from the "p.
