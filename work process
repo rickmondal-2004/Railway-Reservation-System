@@ -9,4 +9,4 @@ The password is read from the user using the getpass() function, and if it match
 6. res() function: This function is responsible for the actual reservation process. It reads the necessary details from the user, checks for available seats, calculates the fare, and generates a unique PNR (Passenger Name Record) for the reservation.
 7. displaypassdetail() function: This function displays all the passenger details that have been reserved so far. It reads the data from the "p.txt" file and displays the details on the console.
 8. enquiry() function: The enquiry() function displays all the available train details stored in the "t.txt" file.
-1.	cancell() function: This function allows the user to cancel a reserved ticket. It reads the PNR number from the user, searches for the corresponding reservation, and calculates the refund amount based on the cancellation rules.
+.	cancell() function: This function allows the user to cancel a reserved ticket. It reads the PNR number from the user, searches for the corresponding reservation, and calculates the refund amount based on the cancellation rules.
