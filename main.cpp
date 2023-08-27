@@ -14,7 +14,8 @@ class login
 {
 public:
     char id[100];
-    char p
+    char pass[100];
+    char *password;
     void getid()
     {
         cout << "Enter your id:";
