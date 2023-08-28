@@ -11,3 +11,4 @@ The password is read from the user using the getpass() function, and if it match
 8. enquiry() function: The enquiry() function displays all the available train details stored in the "t.txt" file.
 9. cancell() function: This function allows the user to cancel a reserved ticket. It reads the PNR number from the user, searches for the corresponding reservation, and calculates the refund amount based on the cancellation rules.
 10.	can() function: This function provides the user with the option to perform the ticket cancellation process.
+11.	user() function: The user() function allows regular users to log in and access various functionalities like reservation, cancellation, and enquiry.
