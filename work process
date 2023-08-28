@@ -13,7 +13,7 @@ The password is read from the user using the getpass() function, and if it match
 10. can() function: This function provides the user with the option to perform the ticket cancellation process.
 11. user() function: The user() function allows regular users to log in and access various functionalities like reservation, cancellation, and enquiry.
 12. manage() function: This function is used for user management by the administrator. It allows the admin to create and add user IDs and passwords, as well as display the list of registered users.
-13. Explanation: The code essentially implements a basic railway reservation system with two main modes: Admin mode and User mode. In Admin mode, the administrator can manage train details, user accounts, and view passenger.
+13. Explanation: The code essentially implements a basic railway reservation system with two main modes: Admin mode and User mode. In Admin mode, the administrator can manage train details, user accounts, and view passenger information. In User mode, regular users can perform tasks like reserving tickets, cancelling tickets, and checking train details.
 
 Sure, let's break down the code step by step:
 1.	Header files and global variables: The code includes various header files, each providing different functionalities, such as standard input/output, file handling, etc. Global variables like f, s, addr, ad, flag, f1, d, m, i, amt, and tamt are declared at the beginning of the code. These variables will be used throughout the program.
