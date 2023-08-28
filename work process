@@ -29,5 +29,3 @@ Sure, let's break down the code step by step:
 11.	user() function: The user() function allows regular users to log in and access various functionalities like reservation, cancellation, and enquiry.
 12.	manage() function: This function is used for user management by the administrator. It allows the admin to create and add user IDs and passwords, as well as display the list of registered users.
 13.	Explanation: The code essentially implements a basic railway reservation system with two main modes: Admin mode and User mode. In Admin mode, the administrator can manage train details, user accounts, and view passenger information. In User mode, regular users can perform tasks like reserving tickets, cancelling tickets, and checking train details.
-Please note that the code seems to be written for an older C++ compiler that uses header files like conio.h and iostream.h, which are not standard in modern C++ and might not be supported in some newer compilers. It's recommended to use more standard C++ headers like <iostream> and <fstream>. Also, some parts of the code could be improved for better readability and maintainability.
-
