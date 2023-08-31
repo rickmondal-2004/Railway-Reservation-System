@@ -12,4 +12,3 @@ The first step is to declare the variables that will be used in the program. The
 11. user() function: The user() function allows regular users to log in and access various functionalities like reservation, cancellation, and enquiry.
 12. manage() function: This function is used for user management by the administrator. It allows the admin to create and add user IDs and passwords, as well as display the list of registered users.
 13. Explanation: The code essentially implements a basic railway reservation system with two main modes: Admin mode and User mode. In Admin mode, the administrator can manage train details, user accounts, and view passenger information. In User mode, regular users can perform tasks like reserving tickets, cancelling tickets, and checking train details.
-
